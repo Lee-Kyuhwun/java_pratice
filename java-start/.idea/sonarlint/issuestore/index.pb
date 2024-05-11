@@ -18,3 +18,9 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+E
+src/scope/Scope1.java,3\8\385d7dd5c950faca8805fe5618f1a78d2c5c2b70
+E
+src/scope/Scope2.java,c\c\ccb6d900317a902ada0d016e2e82c7e8f38eb5f8
+G
+src/scope/Scope3_1.java,b\0\b0eddae7c715d36e375209f3a3d35b47c2c6d8ca
