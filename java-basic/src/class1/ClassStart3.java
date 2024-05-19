@@ -28,7 +28,10 @@ public class ClassStart3 {
         for (int i = 0; i < students.length; i++) {
             Student student = students[i];
         }
-
+        for (Student student : students) {
+student.print();
+        
+        }
 
 
         System.out.println("student1.name = " + student1.name);
